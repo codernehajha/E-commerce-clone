@@ -1,8 +1,6 @@
 body {
     font-family: Arial, sans-serif;
 }
-
-/* Hero Section */
 .hero {
     background: url("https://www.shutterstock.com/image-vector/abstract-background-image-global-online-260nw-2322088941.jpg") no-repeat center center/cover;
     height: 50vh;
@@ -10,8 +8,6 @@ body {
     align-items: center;
     justify-content: center;
 }
-
-/* Media Queries */
 @media (max-width: 768px) {
     .hero h1 {
         font-size: 1.8rem;
